@@ -1,0 +1,12 @@
+E:\Lotus\src\LotusOddEven.Core\bin\Debug\net8.0\LotusOddEven.Core.deps.json
+E:\Lotus\src\LotusOddEven.Core\bin\Debug\net8.0\LotusOddEven.Core.dll
+E:\Lotus\src\LotusOddEven.Core\bin\Debug\net8.0\LotusOddEven.Core.pdb
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.csproj.AssemblyReference.cache
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.AssemblyInfoInputs.cache
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.AssemblyInfo.cs
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.csproj.CoreCompileInputs.cache
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.dll
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\refint\LotusOddEven.Core.dll
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\LotusOddEven.Core.pdb
+E:\Lotus\src\LotusOddEven.Core\obj\Debug\net8.0\ref\LotusOddEven.Core.dll

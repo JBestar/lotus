@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LotusOddEven.App/LotusOddEven.App.csproj" />
+    <Project Path="src/LotusOddEven.Core/LotusOddEven.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LotusOddEven.Tests/LotusOddEven.Tests.csproj" />
+  </Folder>
+</Solution>

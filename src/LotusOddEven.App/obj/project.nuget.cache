@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFXAirDwIjA=",
+  "success": true,
+  "projectFilePath": "E:\\Lotus\\src\\LotusOddEven.App\\LotusOddEven.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nu\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Nu\\microsoft.web.webview2\\1.0.4370.26\\microsoft.web.webview2.1.0.4370.26.nupkg.sha512"
+  ],
+  "logs": []
+}

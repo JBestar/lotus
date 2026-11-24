@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lotus-oddeven-bot"
+version = "0.1.0"
+description = "Lotus Odd/Even auto-betting and shoe tracking bot"
+requires-python = ">=3.11"
+dependencies = [
+  "PySide6>=6.6",
+  "playwright>=1.40",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

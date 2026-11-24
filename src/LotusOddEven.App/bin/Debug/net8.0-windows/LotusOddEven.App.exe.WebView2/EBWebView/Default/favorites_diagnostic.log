@@ -1,0 +1,69 @@
+2026-11-24 07:34:32.533: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 07:34:32.533: [INFO] Profiles total count: 1
+2026-11-24 07:34:32.533: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=null
+2026-11-24 07:34:32.533: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 07:34:32.533: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 07:34:32.533: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 07:34:32.533: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 07:34:32.533: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 07:37:42.309: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 08:41:39.281: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 08:41:39.281: [INFO] Profiles total count: 1
+2026-11-24 08:41:39.281: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T07:34:44.828Z
+2026-11-24 08:41:39.281: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 08:41:39.281: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T07:34:44.828Z
+2026-11-24 08:41:39.281: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 08:41:39.281: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 08:41:39.281: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 08:41:39.281: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 13:41:28.249: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 13:42:39.004: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 13:42:39.004: [INFO] Profiles total count: 1
+2026-11-24 13:42:39.004: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T07:34:44.828Z
+2026-11-24 13:42:39.004: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 13:42:39.004: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T07:34:44.828Z
+2026-11-24 13:42:39.004: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 13:42:39.004: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 13:42:39.004: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 13:42:39.004: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 13:52:40.728: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:10:37.607: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:10:37.607: [INFO] Profiles total count: 1
+2026-11-24 14:10:37.607: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:10:37.607: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:10:37.607: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:10:37.607: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 14:10:37.607: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 14:10:37.607: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 14:10:37.607: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:13:56.207: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:14:36.042: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:14:36.042: [INFO] Profiles total count: 1
+2026-11-24 14:14:36.042: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:14:36.042: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:14:36.042: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:14:36.042: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 14:14:36.042: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 14:14:36.042: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 14:14:36.042: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:21:19.395: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:21:24.783: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:21:24.783: [INFO] Profiles total count: 1
+2026-11-24 14:21:24.783: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:21:24.783: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:21:24.783: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:21:24.783: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 14:21:24.783: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 14:21:24.783: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 14:21:24.783: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:21:38.377: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:27:05.487: [INFO] CurrentProfilePath: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:27:05.487: [INFO] Profiles total count: 1
+2026-11-24 14:27:05.487: [INFO] Profile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:27:05.487: [INFO] LastUsedProfileDir: E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default
+2026-11-24 14:27:05.487: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=E:\Lotus\src\LotusOddEven.App\bin\Debug\net8.0-windows\LotusOddEven.App.exe.WebView2\EBWebView\Default lastActive=2026-11-24T13:43:40.838Z
+2026-11-24 14:27:05.487: [INFO] OnDoneLoading sync enabled: 0
+2026-11-24 14:27:05.487: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-24 14:27:05.487: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-24 14:27:05.487: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-24 14:51:03.540: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

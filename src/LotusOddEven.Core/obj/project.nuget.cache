@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "spvgcndOe6s=",
+  "success": true,
+  "projectFilePath": "E:\\Lotus\\src\\LotusOddEven.Core\\LotusOddEven.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nu\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
